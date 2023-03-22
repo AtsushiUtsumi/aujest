@@ -1,3 +1,3 @@
-test("check", () => {
-  console.log("OK");
+test('ふげ', () => {
+  expect('FUGE').toBe('FUGE');
 });
